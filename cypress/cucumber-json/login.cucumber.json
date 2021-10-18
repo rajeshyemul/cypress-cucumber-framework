@@ -28,7 +28,7 @@
             "name": "I login to the application",
             "result": {
               "status": "passed",
-              "duration": 12250000000
+              "duration": 9908000000
             }
           },
           {
@@ -38,7 +38,7 @@
             "name": "I enter username as \"testautomation@cypresstest.com\"",
             "result": {
               "status": "passed",
-              "duration": 556000000
+              "duration": 554000000
             }
           },
           {
@@ -48,7 +48,7 @@
             "name": "I enter password as \"Test@1234\"",
             "result": {
               "status": "passed",
-              "duration": 297000000
+              "duration": 300000000
             }
           },
           {
@@ -58,7 +58,7 @@
             "name": "I click on sign in button",
             "result": {
               "status": "passed",
-              "duration": 2556000000
+              "duration": 2490000000
             }
           },
           {
@@ -68,7 +68,7 @@
             "name": "I shuld be on the home page",
             "result": {
               "status": "passed",
-              "duration": 18000000
+              "duration": 20000000
             }
           }
         ]
