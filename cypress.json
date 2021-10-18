@@ -1,0 +1,7 @@
+{
+    "testFiles": "**/*.feature",
+    "screenshotsFolder": "cypress/output/screenshots",
+    "videosFolder": "cypress/output/videos",
+    "waitForAnimations": true,
+    "watchForFileChanges": false
+}
